@@ -22,6 +22,7 @@
     "caniuse-lite": "^1.0.30001617",
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.7",
+    "simplelightbox": "^2.14.3",
     "slim-select": "^2.8.2"
   },
   "devDependencies": {
