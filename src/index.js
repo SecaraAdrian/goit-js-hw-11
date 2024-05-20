@@ -73,7 +73,7 @@ async function eventHandler(ev) {
         Notiflix.Notify.failure(
           'Sorry, there are no images matching your search query. Please try again.',
         );
-        clear(gallery); //reset view in case of failure
+        clear(gallery); 
       }
     })
     .catch(error => console.log(error));
